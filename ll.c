@@ -1,3 +1,4 @@
+#inclued<stdio.h>
 void main()
-{printf("hello");
+{printf('hello world');
 }
